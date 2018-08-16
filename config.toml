@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "zn-CH"
+title = "Xs'"
+theme = "maupassant"
